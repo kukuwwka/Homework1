@@ -5,3 +5,7 @@ public class CircleArea {
         System.out.println(area);
     }
 }
+
+/*
+- Создать метод который будет считать площадь круга c произвольным радиусом
+*/
